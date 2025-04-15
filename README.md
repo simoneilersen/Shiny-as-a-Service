@@ -3,10 +3,13 @@ Lightweight boilerplate to turn your R Shiny app into a SaaS product — Stripe 
 
 🚀 This lightweight boilerplate helps you turn any R Shiny app into a **SaaS product** in minutes.
 
-Features included:
+You built a great R Shiny app — now what?
+
+You can turn your app into a fully-functioning R Shiny SaaS in minutes with Auth0, Stripe, Docker and Azure.
+
+Features included in the app in this repo:
 - 🔐 Auth0 user authentication (login/signup)
 - 💳 Stripe integration for payments (subscriptions or one-time)
-- 🐳 Docker-based deploy-ready architecture
 - ✨ Instant onboarding UI and user session management
 
 Whether you're a **data scientist**, **consultant**, or **developer**, this project gives you the core tools to **monetize your Shiny app** with minimal setup.
@@ -17,7 +20,6 @@ Whether you're a **data scientist**, **consultant**, or **developer**, this proj
 - R + Shiny
 - Auth0 for authentication
 - Stripe for billing
-- Docker for deployment
 
 ---
 
