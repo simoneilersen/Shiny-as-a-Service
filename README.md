@@ -40,7 +40,8 @@ Check out the [**Shiny-as-a-Service talk from ShinyConf 2025**](https://shinyasa
 
 This repo includes the basic structure.  
 
-👉 Want the full step-by-step setup?  [**ShinyAsAService.com**](https://www.shinyasaservice.com has everything from setup to deployment
+👉 Want the full step-by-step setup? [**Shiny-as-a-Service**](https://shinyasaservice.com) has everything from setup to deployment.
+
 
 ---
 
