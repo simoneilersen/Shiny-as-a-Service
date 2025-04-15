@@ -37,7 +37,7 @@ Check out the [**Shiny-as-a-Service talk from ShinyConf 2025**](https://shinyasa
 ## 📦 Full Version Available
 
 This repo includes the basic structure.  
-For full access to auto-deployment, customer portal, and hosting integration, visit:  
+For full access to step-by-step guide on how to set everything up with Auth0, Stripe, containerization and deployment, visit:  
 ➡️ [**ShinyAsAService.com**](https://www.shinyasaservice.com)
 
 ---
